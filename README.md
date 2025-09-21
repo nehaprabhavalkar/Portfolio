@@ -1,4 +1,4 @@
-# ![Portfolio Preview](public/preview.jpeg)
+# ![Portfolio Preview](public/preview.jpg)
 # Portfolio
 
 This is a personal portfolio website built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/). It showcases your skills, experience, and projects in a modern, responsive design.
