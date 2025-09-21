@@ -5,6 +5,7 @@ import { Highlight } from "@/components/ui/hero-highlight";
 import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 
 export default function Hero() {
+ 
     const animatedText = "Turning Complexity Into Clarity!";
 
     return (
@@ -23,10 +24,10 @@ export default function Hero() {
 
         <div className="h-screen w-full dark:bg-black-100 absolute top-0 left-0 flex items-center justify-center">
             <div className="text-5xl md:text-7xl font-extrabold leading-tight text-center">
-                <Highlight className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
+                <Highlight className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-4xl sm:text-5xl md:text-6xl font-extrabold leading-snug">
                 Neha
                 </Highlight>
-                <Highlight className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-cyan-400 to-emerald-400">
+                <Highlight className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-cyan-400 to-emerald-400 text-4xl sm:text-5xl md:text-6xl font-extrabold leading-snug">
                 Prabhavalkar
                 </Highlight>
                 <TextGenerateEffect

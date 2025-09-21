@@ -48,7 +48,7 @@ export const items = [
     },
 ];
 
-export const footer = "❤️ Vibe Coded by Neha";
+export const footer = "";
 
 
 
